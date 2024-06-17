@@ -52,7 +52,7 @@ The rapid development of location-based services(LBS) exposes large-scale trajec
 ![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/4.png)
 ![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/5.png)The TSP figures listed in Table III reflect the mean similarity scores calculated for all trajectories within the dataset. Fig.6 shows the TSP of TUL values for Acc@5 as well as for different datasets. where (a) and (b) are for the NYC dataset, (c) and (d) are for the Geolife dataset, and (e) and (f) are for the Gowalla dataset. 
 ![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/6.png)Figures 7 shows s the temporal and categorical visit frequency distributions
-![输入图片说明](/imgs/2024-06-16/rBfTYfcuWyVOfySF.png)Table IV  assesses the influence of varying learning rates, loss metric functions, and different levels of random noise on the performance metrics in the Trajectory-User Linking (TUL) task. 
+![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/7.png)Table IV  assesses the influence of varying learning rates, loss metric functions, and different levels of random noise on the performance metrics in the Trajectory-User Linking (TUL) task. 
 
 ## Updata log
 
