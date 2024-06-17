@@ -46,9 +46,9 @@ The rapid development of location-based services(LBS) exposes large-scale trajec
 -   **predict.py**:This code is used to generate and save synthetic trajectory data.
 -   **TUL_test.py**: This code loads training and testing data, constructs and compiles a classifier model, and uses the model to predict and evaluate the test data.
 ## Experimental Results
-![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/2.png)Table II presents the Trajectory-User Linking (TUL) values for three different models across the three datasets. A smaller TUL value indicates a higher level of difficulty in linking users, signifying enhanced privacy for trajectories.
-![输入图片说明](/imgs/2024-06-16/tG9LZWU2Bdg4PnW9.png)
-![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/3.png)The Hausdorff distances, as outlined in Table III, represent the mean values calculated across multiple iterations for each dataset, as depicted in Figure 5. The visualization in Fig. 5 illustrates the Hausdorff distances, revealing a decreasing trend for each model as the number of training iterations increases across the three datasets. 
+![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/1.png)Table II presents the Trajectory-User Linking (TUL) values for three different models across the three datasets. A smaller TUL value indicates a higher level of difficulty in linking users, signifying enhanced privacy for trajectories.
+![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/3.png)
+![输入图片说明](https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/2.png)The Hausdorff distances, as outlined in Table III, represent the mean values calculated across multiple iterations for each dataset, as depicted in Figure 5. The visualization in Fig. 5 illustrates the Hausdorff distances, revealing a decreasing trend for each model as the number of training iterations increases across the three datasets. 
 ![输入图片说明](/imgs/2024-06-16/I9KpAMhdLqD8mF5H.png)
 ![输入图片说明](/imgs/2024-06-16/iLmCaQ4ti82sgCxo.png)The TSP figures listed in Table III reflect the mean similarity scores calculated for all trajectories within the dataset. Fig.6 shows the TSP of TUL values for Acc@5 as well as for different datasets. where (a) and (b) are for the NYC dataset, (c) and (d) are for the Geolife dataset, and (e) and (f) are for the Gowalla dataset. 
 ![输入图片说明](/imgs/2024-06-16/e4IU7sL1qoJSMqxP.png)Figures 7 shows s the temporal and categorical visit frequency distributions
