@@ -38,6 +38,7 @@ The rapid development of location-based services(LBS) exposes large-scale trajec
 -Trajectory-User Linking (TUL)：A smaller TUL value indicates a higher level of difficulty in linking users, signifying enhanced - privacy for trajectories
 - Utility Evaluation
 -Hausdorff distance（HDD）：The Hausdorff distance serves as a metric for quantifying the distance between two sets and is commonly utilized to assess the spatial dissimilarity between two trajectories.
+
 -Trajectory sharing percentage（TSP）：The Trajectory Sharing Percentage is a metric that measures the similarity between synthetic and corresponding real trajectories by averaging the similarity scores across all pairs. A higher TSP signifies a closer match between the synthetic and actual trajectory data, indicating the effectiveness of the synthetic data in mirroring real-world patterns.
 -Frequency distribution of visits
 ## Python Files
