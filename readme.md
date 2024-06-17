@@ -46,7 +46,7 @@ The rapid development of location-based services(LBS) exposes large-scale trajec
 -   **predict.py**:This code is used to generate and save synthetic trajectory data.
 -   **TUL_test.py**: This code loads training and testing data, constructs and compiles a classifier model, and uses the model to predict and evaluate the test data.
 ## Experimental Results
-![输入图片说明](/imgs/2024-06-16/3P2H4wncB84s0SuZ.png)Table II presents the Trajectory-User Linking (TUL) values for three different models across the three datasets. A smaller TUL value indicates a higher level of difficulty in linking users, signifying enhanced privacy for trajectories.
+![输入图片说明](/https://github.com/csmaxuebin/ST-TrajGAN/blob/main/picture/2.png)Table II presents the Trajectory-User Linking (TUL) values for three different models across the three datasets. A smaller TUL value indicates a higher level of difficulty in linking users, signifying enhanced privacy for trajectories.
 ![输入图片说明](/imgs/2024-06-16/tG9LZWU2Bdg4PnW9.png)
 ![输入图片说明](/imgs/2024-06-16/T4B6xdQNUXE0AR0N.png)The Hausdorff distances, as outlined in Table III, represent the mean values calculated across multiple iterations for each dataset, as depicted in Figure 5. The visualization in Fig. 5 illustrates the Hausdorff distances, revealing a decreasing trend for each model as the number of training iterations increases across the three datasets. 
 ![输入图片说明](/imgs/2024-06-16/I9KpAMhdLqD8mF5H.png)
